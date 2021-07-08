@@ -6,6 +6,7 @@
 
 ## Misc about me
 - Transgender female
+- Furry
 
 ## Languages I use for development
 - Luau (for Roblox)
