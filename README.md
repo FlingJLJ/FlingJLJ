@@ -1,8 +1,13 @@
 ## About me
-- Hobbyist junior software engineer
+- Hobbyist beginner software engineer
 - Hobbyist gamer
 - Hobbyist YouTuber ([My channel](https://www.youtube.com/channel/UCa3eTMX7sLHL6Zd_TVY_ieA))
-- Former hobbyist web designer
+- Former hobbyist front-end web developer
 
 ## Misc about me
-- Non-binary
+- Transgender female
+
+## Languages I use for development
+- Luau (for Roblox)
+- C++ (currently learning)
+- Python 3 (stopped learning due to slowness)
